@@ -1,0 +1,32 @@
+[
+  {
+    "id": "client_001",
+    "active": true,
+    "username": "@vasya_tiktok",
+    "paid_until": "2024-12-31",
+    "notes": "Оплачено до 31.12.2024, следующий платеж 30.12.2024",
+    "price_per_day": 300,
+    "total_earned": 12500,
+    "created": "2024-10-15"
+  },
+  {
+    "id": "client_002",
+    "active": false,
+    "username": "@petya_streamer",
+    "paid_until": "2024-11-30",
+    "notes": "Не оплачено с 01.12.2024, звонил 05.12 - обещал оплатить",
+    "price_per_day": 250,
+    "total_earned": 8900,
+    "created": "2024-09-20"
+  },
+  {
+    "id": "client_003",
+    "active": true,
+    "username": "@serega_gamer",
+    "paid_until": "2025-01-15",
+    "notes": "Оплачено авансом на 2 месяца",
+    "price_per_day": 350,
+    "total_earned": 21000,
+    "created": "2024-11-01"
+  }
+]

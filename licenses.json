@@ -1,7 +1,7 @@
 [
   {
     "id": "client_0011",
-    "active": false,
+    "active": true,
     "username": "@vasya_tiktok",
     "paid_until": "2024-12-31",
     "notes": "Оплачено до 31.12.2024, следующий платеж 30.12.2024",

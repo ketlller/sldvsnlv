@@ -21,7 +21,7 @@
   },
   {
     "id": "client_003",
-    "active": true,
+    "active": false,
     "username": "@serega_gamer",
     "paid_until": "2025-01-15",
     "notes": "Оплачено авансом на 2 месяца",

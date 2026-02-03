@@ -2,7 +2,7 @@
   {
     "id": "client_0011",
     "version": "V01",
-    "active": false,
+    "active": true,
     "active_hand": false,
     "username": "@vasya_tiktok",
     "paid_until": "2024-12-31",

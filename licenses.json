@@ -1,6 +1,7 @@
 [
   {
     "id": "client_0011",
+    "version": "V01",
     "active": true,
     "username": "@vasya_tiktok",
     "paid_until": "2024-12-31",
@@ -11,6 +12,7 @@
   },
   {
     "id": "client_002",
+    "version": "V01",
     "active": true,
     "username": "@petya_streamer",
     "paid_until": "2024-11-30",
@@ -21,6 +23,7 @@
   },
   {
     "id": "client_003",
+    "version": "V01",
     "active": false,
     "username": "@serega_gamer",
     "paid_until": "2025-01-15",

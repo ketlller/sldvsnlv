@@ -11,6 +11,8 @@
     "notes": "Оплачено до 31.12.2024, следующий платеж 30.12.2024",
     "price_per_day": 300,
     "total_earned": 12500,
+    "service_fee": 40,
+    "skolko_monet_za_1usd": 200,
     "created": "2024-10-15"
   },
   {
@@ -25,6 +27,8 @@
     "notes": "Не оплачено с 01.12.2024, звонил 05.12 - обещал оплатить",
     "price_per_day": 250,
     "total_earned": 8900,
+    "service_fee": 10,
+    "skolko_monet_za_1usd": 100,
     "created": "2024-09-20"
   },
   {
@@ -39,6 +43,8 @@
     "notes": "Оплачено авансом на 2 месяца",
     "price_per_day": 350,
     "total_earned": 21000,
+    "service_fee": 40,
+    "skolko_monet_za_1usd": 200,
     "created": "2024-11-01"
   }
 ]

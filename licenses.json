@@ -2,7 +2,7 @@
   {
     "id": "client_0011",
     "version": "V01",
-    "active": true,
+    "active": false,
     "active_hand": true,
     "active_arduino_button": true,
     "active_song": true,

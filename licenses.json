@@ -1,9 +1,9 @@
 [
   {
     "id": "client_0011",
-    "version": "V011",
+    "version": "V01",
     "active": true,
-    "active_hand": true,
+    "active_hand": false,
     "active_arduino_button": true,
     "active_song": true,
     "username": "@vasya_tiktok",

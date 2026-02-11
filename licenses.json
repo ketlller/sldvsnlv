@@ -1,8 +1,8 @@
 [
   {
     "id": "client_0011",
-    "version": "V01",
-    "active": false,
+    "version": "V011",
+    "active": true,
     "active_hand": true,
     "active_arduino_button": true,
     "active_song": true,

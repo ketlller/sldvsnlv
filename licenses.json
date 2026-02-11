@@ -4,7 +4,7 @@
     "version": "V01",
     "active": true,
     "active_hand": true,
-    "active_arduino_button": true,
+    "active_arduino_button": false,
     "active_song": true,
     "username": "@vasya_tiktok",
     "paid_until": "2024-12-31",

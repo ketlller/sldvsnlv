@@ -1,10 +1,10 @@
 [
   
   {
-    "id": "client_0000",
+    "id": "client_0001",
     "version": "V01",
     "active": true,
-    "active_hand": true,
+    "active_hand": false,
     "active_arduino_button": true,
     "active_song": true,
     "username": "@MrBCN",
@@ -17,10 +17,10 @@
     "created": "2026-02-22"
   },
   {
-    "id": "client_002",
+    "id": "client_0000",
     "version": "V01",
     "active": true,
-    "active_hand": true,
+    "active_hand": false,
     "active_arduino_button": true,
     "active_song": true,
     "username": "@petya_streamer",

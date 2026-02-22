@@ -1,14 +1,15 @@
 [
+  
   {
-    "id": "client_0001",
+    "id": "client_0000",
     "version": "V01",
     "active": true,
-    "active_hand": false,
+    "active_hand": true,
     "active_arduino_button": true,
     "active_song": true,
-    "username": "@pavel_sportstr",
+    "username": "@MrBCN",
     "paid_until": "2026-02-22",
-    "notes": "Купил 2026-02-22, следующий платеж 01.03.2026",
+    "notes": "Моя прога",
     "price_per_day": 300,
     "total_earned": 0,
     "service_fee": 20,

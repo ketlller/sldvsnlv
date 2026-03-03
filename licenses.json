@@ -55,12 +55,28 @@
     "active_arduino_button": true,
     "active_song": true,
     "username": "@Tasia060",
-    "paid_until": "2026-02-27",
+    "paid_until": "2026-02-26",
     "notes": "След оплата 01.03.2026",
     "price_per_day": 0,
     "total_earned": 0,
-    "service_fee": 40,
+    "service_fee": 50,
     "skolko_monet_za_1usd": 200,
-    "created": "2026-02-27"
+    "created": "2026-02-26"
+  },
+  {
+    "id": "client_0014",
+    "version": "V01",
+    "active": true,
+    "active_hand": false,
+    "active_arduino_button": true,
+    "active_song": true,
+    "username": "@vladislav_re",
+    "paid_until": "2026-03-02",
+    "notes": "След оплата 08.03.2026",
+    "price_per_day": 0,
+    "total_earned": 0,
+    "service_fee": 20,
+    "skolko_monet_za_1usd": 200,
+    "created": "2026-03-02"
   }
 ]

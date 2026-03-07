@@ -23,13 +23,13 @@
     "active_arduino_button": true,
     "active_song": true,
     "username": "@pavel_sportstr",
-    "paid_until": "2026-02-22",
-    "notes": "След оплата 01.03.2026",
+    "paid_until": "22.02.2026 - 10000 грн",
+    "notes": "След оплата 15.03.2026",
     "price_per_day": 300,
     "total_earned": 0,
     "service_fee": 20,
     "skolko_monet_za_1usd": 200,
-    "created": "2026-02-22"
+    "created": "22.02.2026"
   },
   {
     "id": "client_0002",
@@ -39,13 +39,13 @@
     "active_arduino_button": true,
     "active_song": true,
     "username": "@BMWeast_s1000rr",
-    "paid_until": "2026-02-26",
-    "notes": "След оплата 01.03.2026",
+    "paid_until": "26.02.2026 - не платил",
+    "notes": "След оплата 15.03.2026",
     "price_per_day": 0,
     "total_earned": 0,
     "service_fee": 40,
     "skolko_monet_za_1usd": 200,
-    "created": "2026-02-26"
+    "created": "26.02.2026"
   },
   {
     "id": "client_0003",
@@ -55,13 +55,13 @@
     "active_arduino_button": true,
     "active_song": true,
     "username": "@Tasia060",
-    "paid_until": "2026-02-26",
+    "paid_until": "26.02.2026 - не платил",
     "notes": "След оплата 01.03.2026",
     "price_per_day": 0,
     "total_earned": 0,
     "service_fee": 50,
     "skolko_monet_za_1usd": 200,
-    "created": "2026-02-26"
+    "created": "26.02.2026"
   },
   {
     "id": "client_0004",
@@ -70,8 +70,8 @@
     "active_hand": true,
     "active_arduino_button": true,
     "active_song": true,
-    "username": "+380 96 906 35 81",
-    "paid_until": "08.03.2026",
+    "username": "+380 96 906 35 81 Макс Переяславец",
+    "paid_until": "08.03.2026 - не платил",
     "notes": "След оплата 15.03.2026",
     "price_per_day": 0,
     "total_earned": 0,
@@ -87,12 +87,44 @@
     "active_arduino_button": true,
     "active_song": true,
     "username": "@vladislav_re",
-    "paid_until": "2026-03-02",
+    "paid_until": "02.03.2026 - 2500 USDT",
     "notes": "След оплата 08.03.2026",
     "price_per_day": 0,
     "total_earned": 0,
     "service_fee": 20,
     "skolko_monet_za_1usd": 200,
-    "created": "2026-03-02"
+    "created": "02.03.2026"
+  },
+  {
+    "id": "client_0015",
+    "version": "V01",
+    "active": true,
+    "active_hand": false,
+    "active_arduino_button": true,
+    "active_song": true,
+    "username": "@Infinitygate8",
+    "paid_until": "03.03.2026 - 500 USDT",
+    "notes": "След оплата 15.03.2026",
+    "price_per_day": 0,
+    "total_earned": 0,
+    "service_fee": 50,
+    "skolko_monet_za_1usd": 200,
+    "created": "03.03.2026"
+  },
+  {
+    "id": "client_0016",
+    "version": "V01",
+    "active": true,
+    "active_hand": false,
+    "active_arduino_button": true,
+    "active_song": true,
+    "username": "@anjdjey_official",
+    "paid_until": "06.03.2026 - 1000 USDT",
+    "notes": "След оплата 15.03.2026",
+    "price_per_day": 0,
+    "total_earned": 0,
+    "service_fee": 30,
+    "skolko_monet_za_1usd": 200,
+    "created": "06.03.2026"
   }
 ]

@@ -64,6 +64,22 @@
     "created": "2026-02-26"
   },
   {
+    "id": "client_0004",
+    "version": "V01",
+    "active": true,
+    "active_hand": true,
+    "active_arduino_button": true,
+    "active_song": true,
+    "username": "+380 96 906 35 81",
+    "paid_until": "08.03.2026",
+    "notes": "След оплата 15.03.2026",
+    "price_per_day": 0,
+    "total_earned": 0,
+    "service_fee": 50,
+    "skolko_monet_za_1usd": 200,
+    "created": "08.03.2026"
+  },
+  {
     "id": "client_0014",
     "version": "V01",
     "active": true,

@@ -1,0 +1,19 @@
+{
+  "licenses": [
+    {
+      "user": "client_vasya",
+      "password": "vasya-key-2024",
+      "active": true
+    },
+    {
+      "user": "client_petya",
+      "password": "petya-arena-pro",
+      "active": true
+    },
+    {
+      "user": "client_blocked",
+      "password": "oldkey123",
+      "active": false
+    }
+  ]
+}
